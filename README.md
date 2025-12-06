@@ -4,7 +4,7 @@ A fast-paced, accessible, React-powered word-guessing game where you must save t
 
 ## 🚀 Live Demo
 
-👉 [Click here]()
+👉 [Click here](https://assemblyendgame00.netlify.app/)
 
 ## 📸 Screenshots
 
@@ -86,7 +86,7 @@ README.md
 
 ## 📦 Installation & Setup
 ```bash
-git clone https://github.com/YourUser/assembly-endgame.git
+git clone https://github.com/Elizbeh/assembly_endgame
 cd assembly-endgame
 npm install
 npm run dev
